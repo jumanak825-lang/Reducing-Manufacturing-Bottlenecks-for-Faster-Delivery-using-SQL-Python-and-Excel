@@ -1,0 +1,13 @@
+inventory_id,store_id,category_id,stock_qty,reorder_point,risk_level
+1,101,2,120,50,Overstock
+2,102,1,250,100,Overstock
+3,103,3,5,40,Stockout
+4,101,1,120,100,Healthy
+5,101,3,45,40,Healthy
+6,101,4,35,30,Healthy
+7,101,5,60,60,Healthy
+8,102,2,50,50,Healthy
+9,102,3,45,40,Healthy
+10,102,4,30,30,Healthy
+11,102,5,61,60,Healthy
+12,103,1,100,100,Healthy
